@@ -23,7 +23,7 @@
 
 # 대표사진
 
-<img width="1440" alt="스크린샷 2022-06-17 17 24 51" src="https://user-images.githubusercontent.com/105402245/182275485-29ab0de9-890e-4251-97b1-1a1b298a3c01.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/105402245/182276302-cd85a4b9-cdbf-4111-81ed-b681523f367d.png">
 
 
 https://user-images.githubusercontent.com/105402245/182275393-84e66818-98d4-4343-8763-3fbbe31c1439.mov
