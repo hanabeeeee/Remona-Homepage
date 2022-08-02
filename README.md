@@ -19,9 +19,12 @@
 - AOS
 - Bootstrap 아이콘
 
+
+
 # 대표사진
-![image 4](https://user-images.githubusercontent.com/24298382/182274158-4c380481-f2a6-4a2e-bdaf-99ba20b7e985.png)
+
+https://user-images.githubusercontent.com/105402245/182275393-84e66818-98d4-4343-8763-3fbbe31c1439.mov
 
 
 # 홈페이지 링크
-https://csslick.github.io/lemona-responsive/
+https://hanabeeeee.github.io/Remona-Homepage/
