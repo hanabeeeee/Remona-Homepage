@@ -1,0 +1,76 @@
+:root {
+    --brand-color: #fec82f;
+    --main-color: #fef200;
+    --sub-color: #ed1b25;
+    --bg-color-light: #f1f1f1;
+    --text-color-dark: #111;
+    --text-color-light: #666;
+    --header-height: 90px;
+
+      /* 배너 색상 */
+  --banner-bg-color1: #FCEEAD;
+  --banner-bg-color2: #C1A3D9;
+  --banner-bg-color3: #BEDE71;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  li, ol, ul {
+    list-style-type: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  table {
+    border-collapse:collapse;
+    border-spacing: 0;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+
+  #gnb a {
+    color: var(--text-color-dark);
+  }
+
+  #toggle {
+    background: transparent;
+    border: none;
+  }
+
+  #main-header a {
+    font-weight: bold;
+  }
+
+  .btn {
+    font-size: 16px;
+    width: 245px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: #ED1B25; */
+    color: #000;
+    border: 1px solid var(--sub-color);
+  }
+  
+  .btn-detail {
+    background: #ED1B25;
+    color: #fff;
+  }
+  
+  #main-header {
+    z-index: 999;
+  }
+  
+  #main-visual {
+    background: var(--banner-bg-color3);
+    z-index: 2;
+  }
