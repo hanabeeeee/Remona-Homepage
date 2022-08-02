@@ -4,7 +4,7 @@
 # lemona 반응형 웹 홈페이지
 
 ## 개요
-  여기에 작품에 대한 소개를 작성
+  제가 만든 첫 반응형 홈페이지로, 경남제약의 레모나 홈페이지를 참고해 만들어 보았습니다. PC, Mobile에서 개별의 CSS로 동작합니다. 메인 비주얼에 AOS를 활용하여 애니메이션 효과를 넣어 보았습니다. 가변 Full Screen Slide 유향의 홈페이지입니다.
 
 ## 작업내용
 0. 시안 및 프로토타입 제작(figma)
@@ -22,6 +22,9 @@
 
 
 # 대표사진
+
+<img width="1440" alt="스크린샷 2022-06-17 17 24 51" src="https://user-images.githubusercontent.com/105402245/182275485-29ab0de9-890e-4251-97b1-1a1b298a3c01.png">
+
 
 https://user-images.githubusercontent.com/105402245/182275393-84e66818-98d4-4343-8763-3fbbe31c1439.mov
 
